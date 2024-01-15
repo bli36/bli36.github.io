@@ -60,7 +60,7 @@
   --onyx: hsl(207.01deg 100% 34.91%);
   --eerie-black-1: hsl(204.16deg 100% 28.17%);
   --eerie-black-2: hsl(209.39deg 100% 21.69%);
-  --smoky-black: hsl(0, 0%, 7%);
+  --smoky-black: hsl(176.24deg 100% 41.63% / 0%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --orange-yellow-crayola: hsl(45, 100%, 72%);
@@ -461,7 +461,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: hsl(0deg 0% 0% / 11%);
   backdrop-filter: blur(10px);
   border: 1px solid var(--chrysler-aero);
   border-radius: 12px 12px 0 0;
