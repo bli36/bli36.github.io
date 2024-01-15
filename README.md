@@ -1,2 +1,2 @@
 # personal_website
-[portfolio]bli36.github.io
+[portfolio](bli36.github.io)
