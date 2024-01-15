@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="370.00" height="320.00" viewBox="0.00 0.00 370.00 320.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke-linecap="round" id="icon-dev">
+<path d="M53.10,29.68 L114.49,29.68 L114.49,56.62 L53.10,56.62 L53.10,29.68 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+<path d="M55.10,128.68 L116.49,128.68 L116.49,155.62 L55.10,155.62 L55.10,128.68 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+<path d="M56.10,230.68 L117.49,230.68 L117.49,257.62 L56.10,257.62 L56.10,230.68 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+<path d="M119.42,42.98 L193.44,42.30" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M194.32,42.75 L190.91,248.29" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M134.83,249.88 L193.31,249.54" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M118.91,140.98 L190.03,141.09" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M191.42,140.98 L244.37,141.70 L250.31,147.72" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M312.54,144.45 C319.72,144.46 335.49,146.13 341.84,147.83 C344.79,148.64 351.36,151.15 353.72,153.05 C354.94,154.07 356.48,156.51 356.50,157.53 C356.48,158.54 354.94,160.98 353.72,162.00 C351.36,163.90 344.79,166.42 341.84,167.22 C335.49,168.93 319.72,170.59 312.54,170.60 C305.37,170.59 289.60,168.93 283.25,167.22 C280.30,166.42 273.73,163.90 271.37,162.00 C270.15,160.98 268.61,158.54 268.59,157.53 C268.61,156.51 270.15,154.07 271.37,153.05 C273.73,151.15 280.30,148.64 283.25,147.83 C289.60,146.13 305.37,144.46 312.54,144.45 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="17.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M309.54,193.45 C316.72,193.46 332.49,195.13 338.84,196.83 C341.79,197.64 348.36,200.15 350.75,202.06 C352.01,203.11 353.53,205.52 353.50,206.53 C353.37,208.27 347.96,212.92 344.95,214.72 C340.96,217.04 335.40,219.17 331.61,219.71 C325.66,220.49 311.14,220.04 298.94,219.15 C289.37,218.32 275.71,215.45 271.48,213.06 C269.78,212.08 267.21,209.95 266.41,208.78 C265.62,207.54 265.60,205.53 266.36,204.28 C267.85,202.02 273.17,199.07 276.95,197.82 C288.46,194.09 307.97,193.46 309.54,193.45 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="17.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M311.54,93.45 C318.72,93.46 334.48,95.13 340.82,96.82 C343.78,97.63 350.35,100.14 352.79,102.10 C354.10,103.19 355.61,105.59 355.50,106.53 C355.23,108.10 348.78,111.99 345.25,113.64 C340.37,115.88 334.25,117.83 330.25,118.43 C323.88,119.34 308.18,119.72 300.18,119.10 C291.90,118.44 277.47,115.22 273.48,113.06 C271.68,112.06 269.15,109.98 268.36,108.77 C267.61,107.54 267.61,105.51 268.36,104.28 C269.84,102.02 275.17,99.07 278.95,97.82 C290.46,94.09 309.97,93.46 311.54,93.45 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="17.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M261.02,101.18 L264.55,213.28" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M355.88,104.94 L359.04,214.07" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M249.90,143.25 L258.49,140.63" fill="none" stroke="rgb(6, 240, 255)" stroke-width="15.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="370.00" height="320.00" viewBox="0.00 0.00 370.00 320.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke-linecap="round" id="icon-dev">
+<path d="M34.79,52.64 L32.64,263.30" fill="none" stroke="rgb(6, 240, 255)" stroke-width="20.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M32.89,264.55 L350.45,262.28" fill="none" stroke="rgb(6, 240, 255)" stroke-width="20.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M89.73,105.05 L111.71,105.05 L111.71,253.52 L89.73,253.52 L89.73,105.05 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+<path d="M187.76,180.20 L214.16,180.20 L214.16,254.20 L187.76,254.20 L187.76,180.20 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+<path d="M280.98,90.73 L306.75,90.73 L306.75,248.63 L280.98,248.63 L280.98,90.73 Z" fill="none" stroke="rgb(6, 240, 255)" stroke-width="30.00" stroke-opacity="1.00" stroke-linejoin="miter"/>
+</g>
+</svg>
